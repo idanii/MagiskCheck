@@ -1,5 +1,5 @@
 # MagiskCheck
-A python3 script that checks if your device is rooted by Magisk
+A python3 script that checks if your device is rooted by Magisk even if you're using MagiskHide.
 
 
 
