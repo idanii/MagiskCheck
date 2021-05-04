@@ -8,3 +8,6 @@ Colorama may need to be installed on your computer as well (pip3 install coloram
 
 # Set Up
 Just run the script and make sure your device is connected to your computer.
+
+![Screen Shot 2021-05-04 at 16 15 50](https://user-images.githubusercontent.com/66463744/117009063-091faa80-acf4-11eb-9083-8e265370eacc.png)
+![Screen Shot 2021-05-04 at 16 16 03](https://user-images.githubusercontent.com/66463744/117009067-09b84100-acf4-11eb-8cd0-75cf81ecd4b5.png)
