@@ -1,5 +1,5 @@
 # MagiskCheck
-A python script that checks if your device is rooted by Magisk even if you're using MagiskHide.
+A python script that checks if your android device is rooted by Magisk even if you're using MagiskHide.
 
 
 
